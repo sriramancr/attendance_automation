@@ -25,8 +25,6 @@ import warnings
 warnings.filterwarnings('ignore')
 import re
 
-# streamlit run D:\stackroute\2_AI-assisted-programming\learning_requirements\1_AI_GenAI\useCases\niit\projects\2.1_attendance\code\sl\attendance-v4.py
-
 # ============
 # page design
 # ============
@@ -84,9 +82,6 @@ if "viewattendance" not in st.session_state:
 # ===============
 # local variables
 # ===============
-# bg = "D:/stackroute/2_AI-assisted-programming/learning_requirements/1_AI_GenAI/useCases/niit/projects/2.1_attendance/dataset/att.jpg"
-# att_config = "D:/config/attendance.csv"
-
 bg = "img/att.jpg"
 att_config = "config/attendance.csv"
 
