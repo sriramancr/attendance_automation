@@ -87,8 +87,8 @@ if "viewattendance" not in st.session_state:
 # bg = "D:/stackroute/2_AI-assisted-programming/learning_requirements/1_AI_GenAI/useCases/niit/projects/2.1_attendance/dataset/att.jpg"
 # att_config = "D:/config/attendance.csv"
 
-bg = "D:/stackroute/2_AI-assisted-programming/learning_requirements/1_AI_GenAI/useCases/niit/projects/2.1_attendance/img/att.jpg"
-att_config = "D:/stackroute/2_AI-assisted-programming/learning_requirements/1_AI_GenAI/useCases/niit/projects/2.1_attendance/config/attendance.csv"
+bg = "img/att.jpg"
+att_config = "config/attendance.csv"
 
 # select the input file path, output file and processed file path
 
